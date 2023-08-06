@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "enabled=false": {
+      "model": "cultivatedtech:block/terra_combustor"
+    },
+    "enabled=true": {
+      "model": "cultivatedtech:block/terra_combustor"
+    }
+  }
+}
